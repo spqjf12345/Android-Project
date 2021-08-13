@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">imageRecyclerView</string>
+    <string name="title01">10 Best Practices for Moving to a Single Activity</string>
+    <string name="title02">Cost of a Pixel Color (Android Dev Summit 18)</string>
+    <string name="title03">Foldables, App Bundles and more from Android Dev Summit 18!</string>
+    <string name="title04">Fun with LiveData (Android Dev Summit 18)</string>
+</resources>
